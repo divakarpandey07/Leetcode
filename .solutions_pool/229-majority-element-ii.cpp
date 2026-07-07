@@ -1,0 +1,58 @@
+class Solution {
+public:
+
+    
+    vector<int> majorityElement01(vector<int>& nums) {
+        vector<int> result;
+        unordered_map<int, int> counts;
+        int n = nums.size();
+        for(auto item : nums){
+            counts[item]++;
+            if (counts[item] > n/3 ){
+               result.push_back(item); 
+               counts[item] = -n; 
+            } 
+        }
+        return result;
+    }
+    
+    
+    vector<int> majorityElement02(vector<int>& nums) {
+        if(nums.size()<=1) return nums;
+        
+        
+        int majority1=0, majority2=0, cnt1=0, cnt2=0;
+        for(auto item: nums) {
+            if (cnt1 == 0 && majority2 != item ) {
+                majority1 = item;
+                cnt1 = 1;
+            } else if (majority1 == item) {
+                cnt1++;
+            } else if (cnt2 == 0) {
+                majority2 = item;
+                cnt2 = 1;
+            } else if (majority2 == item) {
+                cnt2++;
+            } else {
+                cnt1--;
+                cnt2--;
+            }
+        }
+        
+        cnt1 = cnt2 = 0;
+        for (auto item : nums) {
+            if (majority1 == item) cnt1++;
+            else if (majority2 == item) cnt2++;
+        }
+        vector<int> result;
+        if (cnt1 > nums.size()/3) result.push_back(majority1);
+        if (cnt2 > nums.size()/3) result.push_back(majority2);
+        return result;
+        
+    }
+    
+    vector<int> majorityElement(vector<int>& nums) {
+        return majorityElement02(nums);
+        return majorityElement01(nums);
+    }
+};

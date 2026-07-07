@@ -1,0 +1,33 @@
+name: LeetCode Daily Auto-Submit
+
+on:
+  schedule:
+    # Run daily at 05:00 UTC (10:30 AM IST)
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Allows manual trigger of the workflow
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Run Daily Submission
+      env:
+        LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+        LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+      run: node submit_daily.js
+
+    - name: Commit and Push Progress
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add status.json *.cpp
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Solve LeetCode problem: $(node -e "console.log(require('./problems.json')[require('./status.json').next_problem_index - 1].title)")" && git push)

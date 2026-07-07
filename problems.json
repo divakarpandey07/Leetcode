@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "file": "1-two-sum.cpp"
+  },
+  {
+    "id": "2",
+    "title": "Add Two Numbers",
+    "slug": "add-two-numbers",
+    "file": "2-add-two-numbers.cpp"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "file": "3-longest-substring-without-repeating-characters.cpp"
+  },
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "slug": "median-of-two-sorted-arrays",
+    "file": "4-median-of-two-sorted-arrays.cpp"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "slug": "longest-palindromic-substring",
+    "file": "5-longest-palindromic-substring.cpp"
+  },
+  {
+    "id": "6",
+    "title": "ZigZag Conversion",
+    "slug": "zigzag-conversion",
+    "file": "6-zigzag-conversion.cpp"
+  },
+  {
+    "id": "7",
+    "title": "Reverse Integer",
+    "slug": "reverse-integer",
+    "file": "7-reverse-integer.cpp"
+  },
+  {
+    "id": "8",
+    "title": "String to Integer (atoi)",
+    "slug": "string-to-integer-atoi",
+    "file": "8-string-to-integer-atoi.cpp"
+  },
+  {
+    "id": "9",
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "file": "9-palindrome-number.cpp"
+  },
+  {
+    "id": "10",
+    "title": "Regular Expression Matching",
+    "slug": "regular-expression-matching",
+    "file": "10-regular-expression-matching.cpp"
+  },
+  {
+    "id": "11",
+    "title": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "file": "11-container-with-most-water.cpp"
+  },
+  {
+    "id": "12",
+    "title": "Integer to Roman",
+    "slug": "integer-to-roman",
+    "file": "12-integer-to-roman.cpp"
+  },
+  {
+    "id": "13",
+    "title": "Roman to Integer",
+    "slug": "roman-to-integer",
+    "file": "13-roman-to-integer.cpp"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "file": "14-longest-common-prefix.cpp"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "slug": "3sum",
+    "file": "15-3sum.cpp"
+  },
+  {
+    "id": "16",
+    "title": "3Sum Closest",
+    "slug": "3sum-closest",
+    "file": "16-3sum-closest.cpp"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "slug": "letter-combinations-of-a-phone-number",
+    "file": "17-letter-combinations-of-a-phone-number.cpp"
+  },
+  {
+    "id": "18",
+    "title": "4Sum",
+    "slug": "4sum",
+    "file": "18-4sum.cpp"
+  },
+  {
+    "id": "19",
+    "title": "Remove Nth Node From End of List",
+    "slug": "remove-nth-node-from-end-of-list",
+    "file": "19-remove-nth-node-from-end-of-list.cpp"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "file": "20-valid-parentheses.cpp"
+  },
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "file": "21-merge-two-sorted-lists.cpp"
+  },
+  {
+    "id": "22",
+    "title": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "file": "22-generate-parentheses.cpp"
+  },
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "slug": "merge-k-sorted-lists",
+    "file": "23-merge-k-sorted-lists.cpp"
+  },
+  {
+    "id": "24",
+    "title": "Swap Nodes in Pairs",
+    "slug": "swap-nodes-in-pairs",
+    "file": "24-swap-nodes-in-pairs.cpp"
+  },
+  {
+    "id": "25",
+    "title": "Reverse Nodes in k-Group",
+    "slug": "reverse-nodes-in-k-group",
+    "file": "25-reverse-nodes-in-k-group.cpp"
+  },
+  {
+    "id": "26",
+    "title": "Remove Duplicates from Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "file": "26-remove-duplicates-from-sorted-array.cpp"
+  },
+  {
+    "id": "27",
+    "title": "Remove Element",
+    "slug": "remove-element",
+    "file": "27-remove-element.cpp"
+  },
+  {
+    "id": "28",
+    "title": "Implement strStr()",
+    "slug": "implement-strstr",
+    "file": "28-implement-strstr.cpp"
+  },
+  {
+    "id": "29",
+    "title": "Divide Two Integers",
+    "slug": "divide-two-integers",
+    "file": "29-divide-two-integers.cpp"
+  },
+  {
+    "id": "30",
+    "title": "Substring with Concatenation of All Words",
+    "slug": "substring-with-concatenation-of-all-words",
+    "file": "30-substring-with-concatenation-of-all-words.cpp"
+  },
+  {
+    "id": "31",
+    "title": "Next Permutation",
+    "slug": "next-permutation",
+    "file": "31-next-permutation.cpp"
+  },
+  {
+    "id": "32",
+    "title": "Longest Valid Parentheses",
+    "slug": "longest-valid-parentheses",
+    "file": "32-longest-valid-parentheses.cpp"
+  },
+  {
+    "id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "file": "33-search-in-rotated-sorted-array.cpp"
+  },
+  {
+    "id": "34",
+    "title": "Search for a Range",
+    "slug": "search-for-a-range",
+    "file": "34-search-for-a-range.cpp"
+  },
+  {
+    "id": "35",
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "file": "35-search-insert-position.cpp"
+  },
+  {
+    "id": "36",
+    "title": "Valid Sudoku",
+    "slug": "valid-sudoku",
+    "file": "36-valid-sudoku.cpp"
+  },
+  {
+    "id": "37",
+    "title": "Sudoku Solver",
+    "slug": "sudoku-solver",
+    "file": "37-sudoku-solver.cpp"
+  },
+  {
+    "id": "38",
+    "title": "Count and Say",
+    "slug": "count-and-say",
+    "file": "38-count-and-say.cpp"
+  },
+  {
+    "id": "39",
+    "title": "Combination Sum",
+    "slug": "combination-sum",
+    "file": "39-combination-sum.cpp"
+  },
+  {
+    "id": "40",
+    "title": "Combination Sum II",
+    "slug": "combination-sum-ii",
+    "file": "40-combination-sum-ii.cpp"
+  },
+  {
+    "id": "41",
+    "title": "First Missing Positive",
+    "slug": "first-missing-positive",
+    "file": "41-first-missing-positive.cpp"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "slug": "trapping-rain-water",
+    "file": "42-trapping-rain-water.cpp"
+  },
+  {
+    "id": "43",
+    "title": "Multiply Strings",
+    "slug": "multiply-strings",
+    "file": "43-multiply-strings.cpp"
+  },
+  {
+    "id": "44",
+    "title": "Wildcard Matching",
+    "slug": "wildcard-matching",
+    "file": "44-wildcard-matching.cpp"
+  },
+  {
+    "id": "45",
+    "title": "Jump Game II",
+    "slug": "jump-game-ii",
+    "file": "45-jump-game-ii.cpp"
+  },
+  {
+    "id": "46",
+    "title": "Permutations",
+    "slug": "permutations",
+    "file": "46-permutations.cpp"
+  },
+  {
+    "id": "47",
+    "title": "Permutations II",
+    "slug": "permutations-ii",
+    "file": "47-permutations-ii.cpp"
+  },
+  {
+    "id": "48",
+    "title": "Rotate Image",
+    "slug": "rotate-image",
+    "file": "48-rotate-image.cpp"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "slug": "anagrams",
+    "file": "49-anagrams.cpp"
+  },
+  {
+    "id": "50",
+    "title": "\"Pow(x, n)\"",
+    "slug": "powx-n",
+    "file": "50-powx-n.cpp"
+  },
+  {
+    "id": "51",
+    "title": "N-Queens",
+    "slug": "n-queens",
+    "file": "51-n-queens.cpp"
+  },
+  {
+    "id": "52",
+    "title": "N-Queens II",
+    "slug": "n-queens-ii",
+    "file": "52-n-queens-ii.cpp"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "slug": "maximum-subarray",
+    "file": "53-maximum-subarray.cpp"
+  },
+  {
+    "id": "54",
+    "title": "Spiral Matrix",
+    "slug": "spiral-matrix",
+    "file": "54-spiral-matrix.cpp"
+  },
+  {
+    "id": "55",
+    "title": "Jump Game",
+    "slug": "jump-game",
+    "file": "55-jump-game.cpp"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "slug": "merge-intervals",
+    "file": "56-merge-intervals.cpp"
+  },
+  {
+    "id": "57",
+    "title": "Insert Interval",
+    "slug": "insert-interval",
+    "file": "57-insert-interval.cpp"
+  },
+  {
+    "id": "58",
+    "title": "Length of Last Word",
+    "slug": "length-of-last-word",
+    "file": "58-length-of-last-word.cpp"
+  },
+  {
+    "id": "59",
+    "title": "Spiral Matrix II",
+    "slug": "spiral-matrix-ii",
+    "file": "59-spiral-matrix-ii.cpp"
+  },
+  {
+    "id": "60",
+    "title": "Permutation Sequence",
+    "slug": "permutation-sequence",
+    "file": "60-permutation-sequence.cpp"
+  },
+  {
+    "id": "61",
+    "title": "Rotate List",
+    "slug": "rotate-list",
+    "file": "61-rotate-list.cpp"
+  },
+  {
+    "id": "62",
+    "title": "Unique Paths",
+    "slug": "unique-paths",
+    "file": "62-unique-paths.cpp"
+  },
+  {
+    "id": "63",
+    "title": "Unique Paths II",
+    "slug": "unique-paths-ii",
+    "file": "63-unique-paths-ii.cpp"
+  },
+  {
+    "id": "64",
+    "title": "Minimum Path Sum",
+    "slug": "minimum-path-sum",
+    "file": "64-minimum-path-sum.cpp"
+  },
+  {
+    "id": "65",
+    "title": "Valid Number",
+    "slug": "valid-number",
+    "file": "65-valid-number.cpp"
+  },
+  {
+    "id": "66",
+    "title": "Plus One",
+    "slug": "plus-one",
+    "file": "66-plus-one.cpp"
+  },
+  {
+    "id": "67",
+    "title": "Add Binary",
+    "slug": "add-binary",
+    "file": "67-add-binary.cpp"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "slug": "text-justification",
+    "file": "68-text-justification.cpp"
+  },
+  {
+    "id": "69",
+    "title": "Sqrt(x)",
+    "slug": "sqrtx",
+    "file": "69-sqrtx.cpp"
+  },
+  {
+    "id": "70",
+    "title": "Climbing Stairs",
+    "slug": "climbing-stairs",
+    "file": "70-climbing-stairs.cpp"
+  },
+  {
+    "id": "71",
+    "title": "Simplify Path",
+    "slug": "simplify-path",
+    "file": "71-simplify-path.cpp"
+  },
+  {
+    "id": "72",
+    "title": "Edit Distance",
+    "slug": "edit-distance",
+    "file": "72-edit-distance.cpp"
+  },
+  {
+    "id": "73",
+    "title": "Set Matrix Zeroes",
+    "slug": "set-matrix-zeroes",
+    "file": "73-set-matrix-zeroes.cpp"
+  },
+  {
+    "id": "74",
+    "title": "Search a 2D Matrix",
+    "slug": "search-a-2d-matrix",
+    "file": "74-search-a-2d-matrix.cpp"
+  },
+  {
+    "id": "75",
+    "title": "Sort Colors",
+    "slug": "sort-colors",
+    "file": "75-sort-colors.cpp"
+  },
+  {
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "slug": "minimum-window-substring",
+    "file": "76-minimum-window-substring.cpp"
+  },
+  {
+    "id": "77",
+    "title": "Combinations",
+    "slug": "combinations",
+    "file": "77-combinations.cpp"
+  },
+  {
+    "id": "78",
+    "title": "Subsets",
+    "slug": "subsets",
+    "file": "78-subsets.cpp"
+  },
+  {
+    "id": "79",
+    "title": "Word Search",
+    "slug": "word-search",
+    "file": "79-word-search.cpp"
+  },
+  {
+    "id": "80",
+    "title": "Remove Duplicates from Sorted Array II",
+    "slug": "remove-duplicates-from-sorted-array-ii",
+    "file": "80-remove-duplicates-from-sorted-array-ii.cpp"
+  },
+  {
+    "id": "81",
+    "title": "Search in Rotated Sorted Array II",
+    "slug": "search-in-rotated-sorted-array-ii",
+    "file": "81-search-in-rotated-sorted-array-ii.cpp"
+  },
+  {
+    "id": "82",
+    "title": "Remove Duplicates from Sorted List II",
+    "slug": "remove-duplicates-from-sorted-list-ii",
+    "file": "82-remove-duplicates-from-sorted-list-ii.cpp"
+  },
+  {
+    "id": "83",
+    "title": "Remove Duplicates from Sorted List",
+    "slug": "remove-duplicates-from-sorted-list",
+    "file": "83-remove-duplicates-from-sorted-list.cpp"
+  },
+  {
+    "id": "84",
+    "title": "Largest Rectangle in Histogram",
+    "slug": "largest-rectangle-in-histogram",
+    "file": "84-largest-rectangle-in-histogram.cpp"
+  },
+  {
+    "id": "85",
+    "title": "Maximal Rectangle",
+    "slug": "maximal-rectangle",
+    "file": "85-maximal-rectangle.cpp"
+  },
+  {
+    "id": "86",
+    "title": "Partition List",
+    "slug": "partition-list",
+    "file": "86-partition-list.cpp"
+  },
+  {
+    "id": "87",
+    "title": "Scramble String",
+    "slug": "scramble-string",
+    "file": "87-scramble-string.cpp"
+  },
+  {
+    "id": "88",
+    "title": "Merge Sorted Array",
+    "slug": "merge-sorted-array",
+    "file": "88-merge-sorted-array.cpp"
+  },
+  {
+    "id": "89",
+    "title": "Gray Code",
+    "slug": "gray-code",
+    "file": "89-gray-code.cpp"
+  },
+  {
+    "id": "90",
+    "title": "Subsets II",
+    "slug": "subsets-ii",
+    "file": "90-subsets-ii.cpp"
+  },
+  {
+    "id": "91",
+    "title": "Decode Ways",
+    "slug": "decode-ways",
+    "file": "91-decode-ways.cpp"
+  },
+  {
+    "id": "92",
+    "title": "Reverse Linked List II",
+    "slug": "reverse-linked-list-ii",
+    "file": "92-reverse-linked-list-ii.cpp"
+  },
+  {
+    "id": "93",
+    "title": "Restore IP Addresses",
+    "slug": "restore-ip-addresses",
+    "file": "93-restore-ip-addresses.cpp"
+  },
+  {
+    "id": "94",
+    "title": "Binary Tree Inorder Traversal",
+    "slug": "binary-tree-inorder-traversal",
+    "file": "94-binary-tree-inorder-traversal.cpp"
+  },
+  {
+    "id": "95",
+    "title": "Unique Binary Search Trees II",
+    "slug": "unique-binary-search-trees-ii",
+    "file": "95-unique-binary-search-trees-ii.cpp"
+  },
+  {
+    "id": "96",
+    "title": "Unique Binary Search Trees",
+    "slug": "unique-binary-search-trees",
+    "file": "96-unique-binary-search-trees.cpp"
+  },
+  {
+    "id": "97",
+    "title": "Interleaving String",
+    "slug": "interleaving-string",
+    "file": "97-interleaving-string.cpp"
+  },
+  {
+    "id": "98",
+    "title": "Validate Binary Search Tree",
+    "slug": "validate-binary-search-tree",
+    "file": "98-validate-binary-search-tree.cpp"
+  },
+  {
+    "id": "99",
+    "title": "Recover Binary Search Tree",
+    "slug": "recover-binary-search-tree",
+    "file": "99-recover-binary-search-tree.cpp"
+  },
+  {
+    "id": "100",
+    "title": "Same Tree",
+    "slug": "same-tree",
+    "file": "100-same-tree.cpp"
+  },
+  {
+    "id": "101",
+    "title": "Symmetric Tree",
+    "slug": "symmetric-tree",
+    "file": "101-symmetric-tree.cpp"
+  },
+  {
+    "id": "102",
+    "title": "Binary Tree Level Order Traversal",
+    "slug": "binary-tree-level-order-traversal",
+    "file": "102-binary-tree-level-order-traversal.cpp"
+  },
+  {
+    "id": "103",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "slug": "binary-tree-zigzag-level-order-traversal",
+    "file": "103-binary-tree-zigzag-level-order-traversal.cpp"
+  },
+  {
+    "id": "104",
+    "title": "Maximum Depth of Binary Tree",
+    "slug": "maximum-depth-of-binary-tree",
+    "file": "104-maximum-depth-of-binary-tree.cpp"
+  },
+  {
+    "id": "105",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "file": "105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp"
+  },
+  {
+    "id": "106",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "file": "106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp"
+  },
+  {
+    "id": "107",
+    "title": "Binary Tree Level Order Traversal II",
+    "slug": "binary-tree-level-order-traversal-ii",
+    "file": "107-binary-tree-level-order-traversal-ii.cpp"
+  },
+  {
+    "id": "108",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "slug": "convert-sorted-array-to-binary-search-tree",
+    "file": "108-convert-sorted-array-to-binary-search-tree.cpp"
+  },
+  {
+    "id": "109",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "slug": "convert-sorted-list-to-binary-search-tree",
+    "file": "109-convert-sorted-list-to-binary-search-tree.cpp"
+  },
+  {
+    "id": "110",
+    "title": "Balanced Binary Tree",
+    "slug": "balanced-binary-tree",
+    "file": "110-balanced-binary-tree.cpp"
+  },
+  {
+    "id": "111",
+    "title": "Minimum Depth of Binary Tree",
+    "slug": "minimum-depth-of-binary-tree",
+    "file": "111-minimum-depth-of-binary-tree.cpp"
+  },
+  {
+    "id": "112",
+    "title": "Path Sum",
+    "slug": "path-sum",
+    "file": "112-path-sum.cpp"
+  },
+  {
+    "id": "113",
+    "title": "Path Sum II",
+    "slug": "path-sum-ii",
+    "file": "113-path-sum-ii.cpp"
+  },
+  {
+    "id": "114",
+    "title": "Flatten Binary Tree to Linked List",
+    "slug": "flatten-binary-tree-to-linked-list",
+    "file": "114-flatten-binary-tree-to-linked-list.cpp"
+  },
+  {
+    "id": "115",
+    "title": "Distinct Subsequences",
+    "slug": "distinct-subsequences",
+    "file": "115-distinct-subsequences.cpp"
+  },
+  {
+    "id": "116",
+    "title": "Populating Next Right Pointers in Each Node",
+    "slug": "populating-next-right-pointers-in-each-node",
+    "file": "116-populating-next-right-pointers-in-each-node.cpp"
+  },
+  {
+    "id": "117",
+    "title": "Populating Next Right Pointers in Each Node II",
+    "slug": "populating-next-right-pointers-in-each-node-ii",
+    "file": "117-populating-next-right-pointers-in-each-node-ii.cpp"
+  },
+  {
+    "id": "118",
+    "title": "Pascal's Triangle",
+    "slug": "pascals-triangle",
+    "file": "118-pascals-triangle.cpp"
+  },
+  {
+    "id": "119",
+    "title": "Pascal's Triangle II",
+    "slug": "pascals-triangle-ii",
+    "file": "119-pascals-triangle-ii.cpp"
+  },
+  {
+    "id": "120",
+    "title": "Triangle",
+    "slug": "triangle",
+    "file": "120-triangle.cpp"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "file": "121-best-time-to-buy-and-sell-stock.cpp"
+  },
+  {
+    "id": "122",
+    "title": "Best Time to Buy and Sell Stock II",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "file": "122-best-time-to-buy-and-sell-stock-ii.cpp"
+  },
+  {
+    "id": "123",
+    "title": "Best Time to Buy and Sell Stock III",
+    "slug": "best-time-to-buy-and-sell-stock-iii",
+    "file": "123-best-time-to-buy-and-sell-stock-iii.cpp"
+  },
+  {
+    "id": "124",
+    "title": "Binary Tree Maximum Path Sum",
+    "slug": "binary-tree-maximum-path-sum",
+    "file": "124-binary-tree-maximum-path-sum.cpp"
+  },
+  {
+    "id": "125",
+    "title": "Valid Palindrome",
+    "slug": "valid-palindrome",
+    "file": "125-valid-palindrome.cpp"
+  },
+  {
+    "id": "126",
+    "title": "Word Ladder II",
+    "slug": "word-ladder-ii",
+    "file": "126-word-ladder-ii.cpp"
+  },
+  {
+    "id": "127",
+    "title": "Word Ladder",
+    "slug": "word-ladder",
+    "file": "127-word-ladder.cpp"
+  },
+  {
+    "id": "128",
+    "title": "Longest Consecutive Sequence",
+    "slug": "longest-consecutive-sequence",
+    "file": "128-longest-consecutive-sequence.cpp"
+  },
+  {
+    "id": "129",
+    "title": "Sum Root to Leaf Numbers",
+    "slug": "sum-root-to-leaf-numbers",
+    "file": "129-sum-root-to-leaf-numbers.cpp"
+  },
+  {
+    "id": "130",
+    "title": "Surrounded Regions",
+    "slug": "surrounded-regions",
+    "file": "130-surrounded-regions.cpp"
+  },
+  {
+    "id": "131",
+    "title": "Palindrome Partitioning",
+    "slug": "palindrome-partitioning",
+    "file": "131-palindrome-partitioning.cpp"
+  },
+  {
+    "id": "132",
+    "title": "Palindrome Partitioning II",
+    "slug": "palindrome-partitioning-ii",
+    "file": "132-palindrome-partitioning-ii.cpp"
+  },
+  {
+    "id": "133",
+    "title": "Clone Graph",
+    "slug": "clone-graph",
+    "file": "133-clone-graph.cpp"
+  },
+  {
+    "id": "134",
+    "title": "Gas Station",
+    "slug": "gas-station",
+    "file": "134-gas-station.cpp"
+  },
+  {
+    "id": "135",
+    "title": "Candy",
+    "slug": "candy",
+    "file": "135-candy.cpp"
+  },
+  {
+    "id": "136",
+    "title": "Single Number",
+    "slug": "single-number",
+    "file": "136-single-number.cpp"
+  },
+  {
+    "id": "137",
+    "title": "Single Number II",
+    "slug": "single-number-ii",
+    "file": "137-single-number-ii.cpp"
+  },
+  {
+    "id": "138",
+    "title": "Copy List with Random Pointer",
+    "slug": "copy-list-with-random-pointer",
+    "file": "138-copy-list-with-random-pointer.cpp"
+  },
+  {
+    "id": "139",
+    "title": "Word Break",
+    "slug": "word-break",
+    "file": "139-word-break.cpp"
+  },
+  {
+    "id": "140",
+    "title": "Word Break II",
+    "slug": "word-break-ii",
+    "file": "140-word-break-ii.cpp"
+  },
+  {
+    "id": "141",
+    "title": "Linked List Cycle",
+    "slug": "linked-list-cycle",
+    "file": "141-linked-list-cycle.cpp"
+  },
+  {
+    "id": "142",
+    "title": "Linked List Cycle II",
+    "slug": "linked-list-cycle-ii",
+    "file": "142-linked-list-cycle-ii.cpp"
+  },
+  {
+    "id": "143",
+    "title": "Reorder List",
+    "slug": "reorder-list",
+    "file": "143-reorder-list.cpp"
+  },
+  {
+    "id": "144",
+    "title": "Binary Tree Preorder Traversal",
+    "slug": "binary-tree-preorder-traversal",
+    "file": "144-binary-tree-preorder-traversal.cpp"
+  },
+  {
+    "id": "145",
+    "title": "Binary Tree Postorder Traversal",
+    "slug": "binary-tree-postorder-traversal",
+    "file": "145-binary-tree-postorder-traversal.cpp"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "slug": "lru-cache",
+    "file": "146-lru-cache.cpp"
+  },
+  {
+    "id": "147",
+    "title": "Insertion Sort List",
+    "slug": "insertion-sort-list",
+    "file": "147-insertion-sort-list.cpp"
+  },
+  {
+    "id": "148",
+    "title": "Sort List",
+    "slug": "sort-list",
+    "file": "148-sort-list.cpp"
+  },
+  {
+    "id": "149",
+    "title": "Max Points on a Line",
+    "slug": "max-points-on-a-line",
+    "file": "149-max-points-on-a-line.cpp"
+  },
+  {
+    "id": "150",
+    "title": "Evaluate Reverse Polish Notation",
+    "slug": "evaluate-reverse-polish-notation",
+    "file": "150-evaluate-reverse-polish-notation.cpp"
+  },
+  {
+    "id": "151",
+    "title": "Reverse Words in a String",
+    "slug": "reverse-words-in-a-string",
+    "file": "151-reverse-words-in-a-string.cpp"
+  },
+  {
+    "id": "152",
+    "title": "Maximum Product Subarray",
+    "slug": "maximum-product-subarray",
+    "file": "152-maximum-product-subarray.cpp"
+  },
+  {
+    "id": "153",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "file": "153-find-minimum-in-rotated-sorted-array.cpp"
+  },
+  {
+    "id": "154",
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "slug": "find-minimum-in-rotated-sorted-array-ii",
+    "file": "154-find-minimum-in-rotated-sorted-array-ii.cpp"
+  },
+  {
+    "id": "155",
+    "title": "Min Stack",
+    "slug": "min-stack",
+    "file": "155-min-stack.cpp"
+  },
+  {
+    "id": "160",
+    "title": "Intersection of Two Linked Lists",
+    "slug": "intersection-of-two-linked-lists",
+    "file": "160-intersection-of-two-linked-lists.cpp"
+  },
+  {
+    "id": "162",
+    "title": "Find Peak Element",
+    "slug": "find-peak-element",
+    "file": "162-find-peak-element.cpp"
+  },
+  {
+    "id": "164",
+    "title": "Maximum Gap",
+    "slug": "maximum-gap",
+    "file": "164-maximum-gap.cpp"
+  },
+  {
+    "id": "165",
+    "title": "Compare Version Numbers",
+    "slug": "compare-version-numbers",
+    "file": "165-compare-version-numbers.cpp"
+  },
+  {
+    "id": "166",
+    "title": "Fraction to Recurring Decimal",
+    "slug": "fraction-to-recurring-decimal",
+    "file": "166-fraction-to-recurring-decimal.cpp"
+  },
+  {
+    "id": "168",
+    "title": "Excel Sheet Column Title",
+    "slug": "excel-sheet-column-title",
+    "file": "168-excel-sheet-column-title.cpp"
+  },
+  {
+    "id": "169",
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "file": "169-majority-element.cpp"
+  },
+  {
+    "id": "171",
+    "title": "Excel Sheet Column Number",
+    "slug": "excel-sheet-column-number",
+    "file": "171-excel-sheet-column-number.cpp"
+  },
+  {
+    "id": "172",
+    "title": "Factorial Trailing Zeroes",
+    "slug": "factorial-trailing-zeroes",
+    "file": "172-factorial-trailing-zeroes.cpp"
+  },
+  {
+    "id": "173",
+    "title": "Binary Search Tree Iterator",
+    "slug": "binary-search-tree-iterator",
+    "file": "173-binary-search-tree-iterator.cpp"
+  },
+  {
+    "id": "174",
+    "title": "Dungeon Game",
+    "slug": "dungeon-game",
+    "file": "174-dungeon-game.cpp"
+  },
+  {
+    "id": "179",
+    "title": "Largest Number",
+    "slug": "largest-number",
+    "file": "179-largest-number.cpp"
+  },
+  {
+    "id": "187",
+    "title": "Repeated DNA Sequences",
+    "slug": "repeated-dna-sequences",
+    "file": "187-repeated-dna-sequences.cpp"
+  },
+  {
+    "id": "188",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "slug": "best-time-to-buy-and-sell-stock-iv",
+    "file": "188-best-time-to-buy-and-sell-stock-iv.cpp"
+  },
+  {
+    "id": "189",
+    "title": "Rotate Array",
+    "slug": "rotate-array",
+    "file": "189-rotate-array.cpp"
+  },
+  {
+    "id": "190",
+    "title": "Reverse Bits",
+    "slug": "reverse-bits",
+    "file": "190-reverse-bits.cpp"
+  },
+  {
+    "id": "191",
+    "title": "Number of 1 Bits",
+    "slug": "number-of-1-bits",
+    "file": "191-number-of-1-bits.cpp"
+  },
+  {
+    "id": "198",
+    "title": "House Robber",
+    "slug": "house-robber",
+    "file": "198-house-robber.cpp"
+  },
+  {
+    "id": "199",
+    "title": "Binary Tree Right Side View",
+    "slug": "binary-tree-right-side-view",
+    "file": "199-binary-tree-right-side-view.cpp"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "slug": "number-of-islands",
+    "file": "200-number-of-islands.cpp"
+  },
+  {
+    "id": "201",
+    "title": "Bitwise AND of Numbers Range",
+    "slug": "bitwise-and-of-numbers-range",
+    "file": "201-bitwise-and-of-numbers-range.cpp"
+  },
+  {
+    "id": "202",
+    "title": "Happy Number",
+    "slug": "happy-number",
+    "file": "202-happy-number.cpp"
+  },
+  {
+    "id": "203",
+    "title": "Remove Linked List Elements",
+    "slug": "remove-linked-list-elements",
+    "file": "203-remove-linked-list-elements.cpp"
+  },
+  {
+    "id": "204",
+    "title": "Count Primes",
+    "slug": "count-primes",
+    "file": "204-count-primes.cpp"
+  },
+  {
+    "id": "205",
+    "title": "Isomorphic Strings",
+    "slug": "isomorphic-strings",
+    "file": "205-isomorphic-strings.cpp"
+  },
+  {
+    "id": "206",
+    "title": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "file": "206-reverse-linked-list.cpp"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "slug": "course-schedule",
+    "file": "207-course-schedule.cpp"
+  },
+  {
+    "id": "208",
+    "title": "Implement Trie (Prefix Tree)",
+    "slug": "implement-trie-prefix-tree",
+    "file": "208-implement-trie-prefix-tree.cpp"
+  },
+  {
+    "id": "209",
+    "title": "Minimum Size Subarray Sum",
+    "slug": "minimum-size-subarray-sum",
+    "file": "209-minimum-size-subarray-sum.cpp"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "slug": "course-schedule-ii",
+    "file": "210-course-schedule-ii.cpp"
+  },
+  {
+    "id": "211",
+    "title": "Add and Search Word - Data structure design",
+    "slug": "add-and-search-word-data-structure-design",
+    "file": "211-add-and-search-word-data-structure-design.cpp"
+  },
+  {
+    "id": "212",
+    "title": "Word Search II",
+    "slug": "word-search-ii",
+    "file": "212-word-search-ii.cpp"
+  },
+  {
+    "id": "213",
+    "title": "House Robber II",
+    "slug": "house-robber-ii",
+    "file": "213-house-robber-ii.cpp"
+  },
+  {
+    "id": "214",
+    "title": "Shortest Palindrome",
+    "slug": "shortest-palindrome",
+    "file": "214-shortest-palindrome.cpp"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "slug": "kth-largest-element-in-an-array",
+    "file": "215-kth-largest-element-in-an-array.cpp"
+  },
+  {
+    "id": "216",
+    "title": "Combination Sum III",
+    "slug": "combination-sum-iii",
+    "file": "216-combination-sum-iii.cpp"
+  },
+  {
+    "id": "217",
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "file": "217-contains-duplicate.cpp"
+  },
+  {
+    "id": "218",
+    "title": "The Skyline Problem",
+    "slug": "the-skyline-problem",
+    "file": "218-the-skyline-problem.cpp"
+  },
+  {
+    "id": "219",
+    "title": "Contains Duplicate II",
+    "slug": "contains-duplicate-ii",
+    "file": "219-contains-duplicate-ii.cpp"
+  },
+  {
+    "id": "220",
+    "title": "Contains Duplicate III",
+    "slug": "contains-duplicate-iii",
+    "file": "220-contains-duplicate-iii.cpp"
+  },
+  {
+    "id": "221",
+    "title": "Maximal Square",
+    "slug": "maximal-square",
+    "file": "221-maximal-square.cpp"
+  },
+  {
+    "id": "222",
+    "title": "Count Complete Tree Nodes",
+    "slug": "count-complete-tree-nodes",
+    "file": "222-count-complete-tree-nodes.cpp"
+  },
+  {
+    "id": "223",
+    "title": "Rectangle Area",
+    "slug": "rectangle-area",
+    "file": "223-rectangle-area.cpp"
+  },
+  {
+    "id": "224",
+    "title": "Basic Calculator",
+    "slug": "basic-calculator",
+    "file": "224-basic-calculator.cpp"
+  },
+  {
+    "id": "225",
+    "title": "Implement Stack using Queues",
+    "slug": "implement-stack-using-queues",
+    "file": "225-implement-stack-using-queues.cpp"
+  },
+  {
+    "id": "226",
+    "title": "Invert Binary Tree",
+    "slug": "invert-binary-tree",
+    "file": "226-invert-binary-tree.cpp"
+  },
+  {
+    "id": "227",
+    "title": "Basic Calculator II",
+    "slug": "basic-calculator-ii",
+    "file": "227-basic-calculator-ii.cpp"
+  },
+  {
+    "id": "228",
+    "title": "Summary Ranges",
+    "slug": "summary-ranges",
+    "file": "228-summary-ranges.cpp"
+  },
+  {
+    "id": "229",
+    "title": "Majority Element II",
+    "slug": "majority-element-ii",
+    "file": "229-majority-element-ii.cpp"
+  },
+  {
+    "id": "230",
+    "title": "Kth Smallest Element in a BST",
+    "slug": "kth-smallest-element-in-a-bst",
+    "file": "230-kth-smallest-element-in-a-bst.cpp"
+  },
+  {
+    "id": "231",
+    "title": "Power of Two",
+    "slug": "power-of-two",
+    "file": "231-power-of-two.cpp"
+  },
+  {
+    "id": "232",
+    "title": "Implement Queue using Stacks",
+    "slug": "implement-queue-using-stacks",
+    "file": "232-implement-queue-using-stacks.cpp"
+  },
+  {
+    "id": "233",
+    "title": "Number of Digit One",
+    "slug": "number-of-digit-one",
+    "file": "233-number-of-digit-one.cpp"
+  },
+  {
+    "id": "234",
+    "title": "Palindrome Linked List",
+    "slug": "palindrome-linked-list",
+    "file": "234-palindrome-linked-list.cpp"
+  },
+  {
+    "id": "235",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "file": "235-lowest-common-ancestor-of-a-binary-search-tree.cpp"
+  },
+  {
+    "id": "236",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "file": "236-lowest-common-ancestor-of-a-binary-tree.cpp"
+  },
+  {
+    "id": "237",
+    "title": "Delete Node in a Linked List",
+    "slug": "delete-node-in-a-linked-list",
+    "file": "237-delete-node-in-a-linked-list.cpp"
+  },
+  {
+    "id": "238",
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "file": "238-product-of-array-except-self.cpp"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "slug": "sliding-window-maximum",
+    "file": "239-sliding-window-maximum.cpp"
+  },
+  {
+    "id": "240",
+    "title": "Search a 2D Matrix II",
+    "slug": "search-a-2d-matrix-ii",
+    "file": "240-search-a-2d-matrix-ii.cpp"
+  },
+  {
+    "id": "241",
+    "title": "Different Ways to Add Parentheses",
+    "slug": "different-ways-to-add-parentheses",
+    "file": "241-different-ways-to-add-parentheses.cpp"
+  },
+  {
+    "id": "242",
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "file": "242-valid-anagram.cpp"
+  },
+  {
+    "id": "257",
+    "title": "Binary Tree Paths",
+    "slug": "binary-tree-paths",
+    "file": "257-binary-tree-paths.cpp"
+  },
+  {
+    "id": "258",
+    "title": "Add Digits",
+    "slug": "add-digits",
+    "file": "258-add-digits.cpp"
+  },
+  {
+    "id": "260",
+    "title": "Single Number III",
+    "slug": "single-number-iii",
+    "file": "260-single-number-iii.cpp"
+  },
+  {
+    "id": "263",
+    "title": "Ugly Number",
+    "slug": "ugly-number",
+    "file": "263-ugly-number.cpp"
+  },
+  {
+    "id": "264",
+    "title": "Ugly Number II",
+    "slug": "ugly-number-ii",
+    "file": "264-ugly-number-ii.cpp"
+  },
+  {
+    "id": "268",
+    "title": "Missing Number",
+    "slug": "missing-number",
+    "file": "268-missing-number.cpp"
+  },
+  {
+    "id": "273",
+    "title": "Integer to English Words",
+    "slug": "integer-to-english-words",
+    "file": "273-integer-to-english-words.cpp"
+  },
+  {
+    "id": "274",
+    "title": "H-Index",
+    "slug": "h-index",
+    "file": "274-h-index.cpp"
+  },
+  {
+    "id": "275",
+    "title": "H-Index II",
+    "slug": "h-index-ii",
+    "file": "275-h-index-ii.cpp"
+  },
+  {
+    "id": "278",
+    "title": "First Bad Version",
+    "slug": "first-bad-version",
+    "file": "278-first-bad-version.cpp"
+  },
+  {
+    "id": "279",
+    "title": "Perfect Squares",
+    "slug": "perfect-squares",
+    "file": "279-perfect-squares.cpp"
+  },
+  {
+    "id": "282",
+    "title": "Expression Add Operators",
+    "slug": "expression-add-operators",
+    "file": "282-expression-add-operators.cpp"
+  },
+  {
+    "id": "283",
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "file": "283-move-zeroes.cpp"
+  },
+  {
+    "id": "284",
+    "title": "Peeking Iterator",
+    "slug": "peeking-iterator",
+    "file": "284-peeking-iterator.cpp"
+  },
+  {
+    "id": "287",
+    "title": "Find the Duplicate Number",
+    "slug": "find-the-duplicate-number",
+    "file": "287-find-the-duplicate-number.cpp"
+  },
+  {
+    "id": "289",
+    "title": "Game of Life",
+    "slug": "game-of-life",
+    "file": "289-game-of-life.cpp"
+  },
+  {
+    "id": "290",
+    "title": "Word Pattern",
+    "slug": "word-pattern",
+    "file": "290-word-pattern.cpp"
+  },
+  {
+    "id": "292",
+    "title": "Nim Game",
+    "slug": "nim-game",
+    "file": "292-nim-game.cpp"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "slug": "find-median-from-data-stream",
+    "file": "295-find-median-from-data-stream.cpp"
+  },
+  {
+    "id": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "slug": "serialize-and-deserialize-binary-tree",
+    "file": "297-serialize-and-deserialize-binary-tree.cpp"
+  },
+  {
+    "id": "299",
+    "title": "Bulls and Cows",
+    "slug": "bulls-and-cows",
+    "file": "299-bulls-and-cows.cpp"
+  },
+  {
+    "id": "300",
+    "title": "Longest Increasing Subsequence",
+    "slug": "longest-increasing-subsequence",
+    "file": "300-longest-increasing-subsequence.cpp"
+  },
+  {
+    "id": "301",
+    "title": "Remove Invalid Parentheses",
+    "slug": "remove-invalid-parentheses",
+    "file": "301-remove-invalid-parentheses.cpp"
+  },
+  {
+    "id": "303",
+    "title": "Range Sum Query - Immutable",
+    "slug": "range-sum-query-immutable",
+    "file": "303-range-sum-query-immutable.cpp"
+  },
+  {
+    "id": "304",
+    "title": "Range Sum Query 2D - Immutable",
+    "slug": "range-sum-query-2d-immutable",
+    "file": "304-range-sum-query-2d-immutable.cpp"
+  },
+  {
+    "id": "306",
+    "title": "Additive Number",
+    "slug": "additive-number",
+    "file": "306-additive-number.cpp"
+  },
+  {
+    "id": "307",
+    "title": "Range Sum Query - Mutable",
+    "slug": "range-sum-query-mutable",
+    "file": "307-range-sum-query-mutable.cpp"
+  },
+  {
+    "id": "309",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "file": "309-best-time-to-buy-and-sell-stock-with-cooldown.cpp"
+  },
+  {
+    "id": "310",
+    "title": "Minimum Height Trees",
+    "slug": "minimum-height-trees",
+    "file": "310-minimum-height-trees.cpp"
+  },
+  {
+    "id": "312",
+    "title": "Burst Balloons",
+    "slug": "burst-balloons",
+    "file": "312-burst-balloons.cpp"
+  },
+  {
+    "id": "313",
+    "title": "Super Ugly Number",
+    "slug": "super-ugly-number",
+    "file": "313-super-ugly-number.cpp"
+  },
+  {
+    "id": "315",
+    "title": "Count of Smaller Numbers After Self",
+    "slug": "count-of-smaller-numbers-after-self",
+    "file": "315-count-of-smaller-numbers-after-self.cpp"
+  },
+  {
+    "id": "316",
+    "title": "Remove Duplicate Letters",
+    "slug": "remove-duplicate-letters",
+    "file": "316-remove-duplicate-letters.cpp"
+  },
+  {
+    "id": "318",
+    "title": "Maximum Product of Word Lengths",
+    "slug": "maximum-product-of-word-lengths",
+    "file": "318-maximum-product-of-word-lengths.cpp"
+  },
+  {
+    "id": "319",
+    "title": "Bulb Switcher",
+    "slug": "bulb-switcher",
+    "file": "319-bulb-switcher.cpp"
+  },
+  {
+    "id": "321",
+    "title": "Create Maximum Number",
+    "slug": "create-maximum-number",
+    "file": "321-create-maximum-number.cpp"
+  },
+  {
+    "id": "322",
+    "title": "Coin Change",
+    "slug": "coin-change",
+    "file": "322-coin-change.cpp"
+  },
+  {
+    "id": "324",
+    "title": "Wiggle Sort II",
+    "slug": "wiggle-sort-ii",
+    "file": "324-wiggle-sort-ii.cpp"
+  },
+  {
+    "id": "326",
+    "title": "Power of Three",
+    "slug": "power-of-three",
+    "file": "326-power-of-three.cpp"
+  },
+  {
+    "id": "327",
+    "title": "Count of Range Sum",
+    "slug": "count-of-range-sum",
+    "file": "327-count-of-range-sum.cpp"
+  },
+  {
+    "id": "328",
+    "title": "Odd Even Linked List",
+    "slug": "odd-even-linked-list",
+    "file": "328-odd-even-linked-list.cpp"
+  },
+  {
+    "id": "329",
+    "title": "Longest Increasing Path in a Matrix",
+    "slug": "longest-increasing-path-in-a-matrix",
+    "file": "329-longest-increasing-path-in-a-matrix.cpp"
+  },
+  {
+    "id": "330",
+    "title": "Patching Array",
+    "slug": "patching-array",
+    "file": "330-patching-array.cpp"
+  },
+  {
+    "id": "331",
+    "title": "Verify Preorder Serialization of a Binary Tree",
+    "slug": "verify-preorder-serialization-of-a-binary-tree",
+    "file": "331-verify-preorder-serialization-of-a-binary-tree.cpp"
+  },
+  {
+    "id": "332",
+    "title": "Reconstruct Itinerary",
+    "slug": "reconstruct-itinerary",
+    "file": "332-reconstruct-itinerary.cpp"
+  },
+  {
+    "id": "334",
+    "title": "Increasing Triplet Subsequence",
+    "slug": "increasing-triplet-subsequence",
+    "file": "334-increasing-triplet-subsequence.cpp"
+  },
+  {
+    "id": "336",
+    "title": "Palindrome Pairs",
+    "slug": "palindrome-pairs",
+    "file": "336-palindrome-pairs.cpp"
+  },
+  {
+    "id": "337",
+    "title": "House Robber III",
+    "slug": "house-robber-iii",
+    "file": "337-house-robber-iii.cpp"
+  },
+  {
+    "id": "338",
+    "title": "Counting Bits",
+    "slug": "counting-bits",
+    "file": "338-counting-bits.cpp"
+  },
+  {
+    "id": "341",
+    "title": "Flatten Nested List Iterator",
+    "slug": "flatten-nested-list-iterator",
+    "file": "341-flatten-nested-list-iterator.cpp"
+  },
+  {
+    "id": "342",
+    "title": "Power of Four",
+    "slug": "power-of-four",
+    "file": "342-power-of-four.cpp"
+  },
+  {
+    "id": "343",
+    "title": "Integer Break",
+    "slug": "integer-break",
+    "file": "343-integer-break.cpp"
+  },
+  {
+    "id": "344",
+    "title": "Reverse String",
+    "slug": "reverse-string",
+    "file": "344-reverse-string.cpp"
+  },
+  {
+    "id": "345",
+    "title": "Reverse Vowels of a String",
+    "slug": "reverse-vowels-of-a-string",
+    "file": "345-reverse-vowels-of-a-string.cpp"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "slug": "top-k-frequent-elements",
+    "file": "347-top-k-frequent-elements.cpp"
+  },
+  {
+    "id": "349",
+    "title": "Intersection of Two Arrays",
+    "slug": "intersection-of-two-arrays",
+    "file": "349-intersection-of-two-arrays.cpp"
+  },
+  {
+    "id": "350",
+    "title": "Intersection of Two Arrays II",
+    "slug": "intersection-of-two-arrays-ii",
+    "file": "350-intersection-of-two-arrays-ii.cpp"
+  },
+  {
+    "id": "357",
+    "title": "Count Numbers with Unique Digits",
+    "slug": "count-numbers-with-unique-digits",
+    "file": "357-count-numbers-with-unique-digits.cpp"
+  },
+  {
+    "id": "367",
+    "title": "Valid Perfect Square",
+    "slug": "description",
+    "file": "367-description.cpp"
+  },
+  {
+    "id": "371",
+    "title": "Sum of Two Integers",
+    "slug": "description",
+    "file": "371-description.cpp"
+  },
+  {
+    "id": "376",
+    "title": "Wiggle Subsequence",
+    "slug": "wiggle-subsequence",
+    "file": "376-wiggle-subsequence.cpp"
+  },
+  {
+    "id": "377",
+    "title": "Combination Sum IV",
+    "slug": "combination-sum-iv",
+    "file": "377-combination-sum-iv.cpp"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "slug": "insert-delete-getrandom-o1",
+    "file": "380-insert-delete-getrandom-o1.cpp"
+  },
+  {
+    "id": "381",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+    "file": "381-insert-delete-getrandom-o1-duplicates-allowed.cpp"
+  },
+  {
+    "id": "382",
+    "title": "Linked List Random Node",
+    "slug": "linked-list-random-node",
+    "file": "382-linked-list-random-node.cpp"
+  },
+  {
+    "id": "383",
+    "title": "Ransom Note",
+    "slug": "ransom-note",
+    "file": "383-ransom-note.cpp"
+  },
+  {
+    "id": "384",
+    "title": "Shuffle an Array",
+    "slug": "shuffle-an-array",
+    "file": "384-shuffle-an-array.cpp"
+  },
+  {
+    "id": "385",
+    "title": "Mini Parser",
+    "slug": "mini-parser",
+    "file": "385-mini-parser.cpp"
+  },
+  {
+    "id": "386",
+    "title": "Lexicographical Numbers",
+    "slug": "lexicographical-numbers",
+    "file": "386-lexicographical-numbers.cpp"
+  },
+  {
+    "id": "387",
+    "title": "First Unique Character in a String",
+    "slug": "first-unique-character-in-a-string",
+    "file": "387-first-unique-character-in-a-string.cpp"
+  },
+  {
+    "id": "388",
+    "title": "Longest Absolute File Path",
+    "slug": "longest-absolute-file-path",
+    "file": "388-longest-absolute-file-path.cpp"
+  },
+  {
+    "id": "389",
+    "title": "Find the Difference",
+    "slug": "find-the-difference",
+    "file": "389-find-the-difference.cpp"
+  },
+  {
+    "id": "390",
+    "title": "Elimination Game",
+    "slug": "elimination-game",
+    "file": "390-elimination-game.cpp"
+  },
+  {
+    "id": "391",
+    "title": "Perfect Rectangle",
+    "slug": "perfect-rectangle",
+    "file": "391-perfect-rectangle.cpp"
+  },
+  {
+    "id": "392",
+    "title": "Is Subsequence",
+    "slug": "is-subsequence",
+    "file": "392-is-subsequence.cpp"
+  },
+  {
+    "id": "393",
+    "title": "UTF-8 Validation",
+    "slug": "utf-8-validation",
+    "file": "393-utf-8-validation.cpp"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "slug": "decode-string",
+    "file": "394-decode-string.cpp"
+  },
+  {
+    "id": "395",
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "slug": "longest-substring-with-at-least-k-repeating-characters",
+    "file": "395-longest-substring-with-at-least-k-repeating-characters.cpp"
+  },
+  {
+    "id": "396",
+    "title": "Rotate Function",
+    "slug": "rotate-function",
+    "file": "396-rotate-function.cpp"
+  },
+  {
+    "id": "397",
+    "title": "Integer Replacement",
+    "slug": "integer-replacement",
+    "file": "397-integer-replacement.cpp"
+  },
+  {
+    "id": "398",
+    "title": "Random Pick Index",
+    "slug": "random-pick-index",
+    "file": "398-random-pick-index.cpp"
+  },
+  {
+    "id": "399",
+    "title": "Evaluate Division",
+    "slug": "evaluate-division",
+    "file": "399-evaluate-division.cpp"
+  },
+  {
+    "id": "400",
+    "title": "Nth Digit",
+    "slug": "nth-digit",
+    "file": "400-nth-digit.cpp"
+  },
+  {
+    "id": "401",
+    "title": "Binary Watch",
+    "slug": "binary-watch",
+    "file": "401-binary-watch.cpp"
+  },
+  {
+    "id": "402",
+    "title": "Remove K Digits",
+    "slug": "remove-k-digits",
+    "file": "402-remove-k-digits.cpp"
+  },
+  {
+    "id": "403",
+    "title": "Frog Jump",
+    "slug": "frog-jump",
+    "file": "403-frog-jump.cpp"
+  },
+  {
+    "id": "404",
+    "title": "Sum of Left Leaves",
+    "slug": "sum-of-left-leaves",
+    "file": "404-sum-of-left-leaves.cpp"
+  },
+  {
+    "id": "405",
+    "title": "Convert a Number to Hexadecimal",
+    "slug": "convert-a-number-to-hexadecimal",
+    "file": "405-convert-a-number-to-hexadecimal.cpp"
+  },
+  {
+    "id": "406",
+    "title": "Queue Reconstruction by Height",
+    "slug": "queue-reconstruction-by-height",
+    "file": "406-queue-reconstruction-by-height.cpp"
+  },
+  {
+    "id": "409",
+    "title": "Longest Palindrome",
+    "slug": "longest-palindrome",
+    "file": "409-longest-palindrome.cpp"
+  },
+  {
+    "id": "410",
+    "title": "Split Array Largest Sum",
+    "slug": "split-array-largest-sum",
+    "file": "410-split-array-largest-sum.cpp"
+  },
+  {
+    "id": "412",
+    "title": "Fizz Buzz",
+    "slug": "fizz-buzz",
+    "file": "412-fizz-buzz.cpp"
+  },
+  {
+    "id": "413",
+    "title": "Arithmetic Slices",
+    "slug": "arithmetic-slices",
+    "file": "413-arithmetic-slices.cpp"
+  },
+  {
+    "id": "414",
+    "title": "Third Maximum Number",
+    "slug": "third-maximum-number",
+    "file": "414-third-maximum-number.cpp"
+  },
+  {
+    "id": "415",
+    "title": "Add Strings",
+    "slug": "add-strings",
+    "file": "415-add-strings.cpp"
+  },
+  {
+    "id": "416",
+    "title": "Partition Equal Subset Sum",
+    "slug": "description",
+    "file": "416-description.cpp"
+  },
+  {
+    "id": "438",
+    "title": "Find all Anagrams in a string",
+    "slug": "find-all-anagrams-in-a-string",
+    "file": "438-find-all-anagrams-in-a-string.cpp"
+  },
+  {
+    "id": "463",
+    "title": "Island Perimeter",
+    "slug": "island-perimeter",
+    "file": "463-island-perimeter.cpp"
+  },
+  {
+    "id": "477",
+    "title": "Total Hamming Distance",
+    "slug": "total-hamming-distance",
+    "file": "477-total-hamming-distance.cpp"
+  },
+  {
+    "id": "494",
+    "title": "Target Sum",
+    "slug": "target-sum",
+    "file": "494-target-sum.cpp"
+  },
+  {
+    "id": "497",
+    "title": "Random Point in Non-overlapping Rectangles",
+    "slug": "random-point-in-non-overlapping-rectangles",
+    "file": "497-random-point-in-non-overlapping-rectangles.cpp"
+  },
+  {
+    "id": "509",
+    "title": "Fibonacci Number",
+    "slug": "fibonacci-number",
+    "file": "509-fibonacci-number.cpp"
+  },
+  {
+    "id": "516",
+    "title": "Longest Palindromic Subsequence",
+    "slug": "longest-palindromic-subsequence",
+    "file": "516-longest-palindromic-subsequence.cpp"
+  },
+  {
+    "id": "518",
+    "title": "Coin Change 2",
+    "slug": "coin-change-2",
+    "file": "518-coin-change-2.cpp"
+  },
+  {
+    "id": "520",
+    "title": "Detect Capital",
+    "slug": "detect-capital",
+    "file": "520-detect-capital.cpp"
+  },
+  {
+    "id": "543",
+    "title": "Diameter of Binary Tree",
+    "slug": "diameter-of-binary-tree",
+    "file": "543-diameter-of-binary-tree.cpp"
+  },
+  {
+    "id": "547",
+    "title": "Friend Circles",
+    "slug": "friend-circles",
+    "file": "547-friend-circles.cpp"
+  },
+  {
+    "id": "643",
+    "title": "Maximum Average Subarray I",
+    "slug": "description",
+    "file": "643-description.cpp"
+  },
+  {
+    "id": "647",
+    "title": "Palindromic Substrings",
+    "slug": "palindromic-substrings",
+    "file": "647-palindromic-substrings.cpp"
+  },
+  {
+    "id": "672",
+    "title": "Bulb Switcher II",
+    "slug": "submissions",
+    "file": "672-submissions.cpp"
+  },
+  {
+    "id": "695",
+    "title": "Max Area of Island",
+    "slug": "max-area-of-island",
+    "file": "695-max-area-of-island.cpp"
+  },
+  {
+    "id": "712",
+    "title": "Minimum ASCII Delete Sum for Two Strings",
+    "slug": "minimum-ascii-delete-sum-for-two-strings",
+    "file": "712-minimum-ascii-delete-sum-for-two-strings.cpp"
+  },
+  {
+    "id": "714",
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "file": "714-best-time-to-buy-and-sell-stock-with-transaction-fee.cpp"
+  },
+  {
+    "id": "721",
+    "title": "Accounts Merge",
+    "slug": "accounts-merge",
+    "file": "721-accounts-merge.cpp"
+  },
+  {
+    "id": "746",
+    "title": "Min Cost Climbing Stairs",
+    "slug": "min-cost-climbing-stairs",
+    "file": "746-min-cost-climbing-stairs.cpp"
+  },
+  {
+    "id": "771",
+    "title": "Jewels and Stones",
+    "slug": "description",
+    "file": "771-description.cpp"
+  },
+  {
+    "id": "804",
+    "title": "Unique Morse Code Words",
+    "slug": "description",
+    "file": "804-description.cpp"
+  },
+  {
+    "id": "820",
+    "title": "Short Encoding of Words",
+    "slug": "short-encoding-of-words",
+    "file": "820-short-encoding-of-words.cpp"
+  },
+  {
+    "id": "837",
+    "title": "Most Common Word",
+    "slug": "most-common-word",
+    "file": "837-most-common-word.cpp"
+  },
+  {
+    "id": "844",
+    "title": "Backspace String Compare",
+    "slug": "description",
+    "file": "844-description.cpp"
+  },
+  {
+    "id": "852",
+    "title": "Peak Index in a Mountain Array",
+    "slug": "description",
+    "file": "852-description.cpp"
+  },
+  {
+    "id": "858",
+    "title": "Mirror Reflection",
+    "slug": "description",
+    "file": "858-description.cpp"
+  },
+  {
+    "id": "859",
+    "title": "Buddy Strings",
+    "slug": "description",
+    "file": "859-description.cpp"
+  },
+  {
+    "id": "905",
+    "title": "Sort Array By Parity",
+    "slug": "sort-array-by-parity",
+    "file": "905-sort-array-by-parity.cpp"
+  },
+  {
+    "id": "922",
+    "title": "Sort Array By Parity II",
+    "slug": "sort-array-by-parity-ii",
+    "file": "922-sort-array-by-parity-ii.cpp"
+  },
+  {
+    "id": "929",
+    "title": "Unique Email Addresses",
+    "slug": "unique-email-addresses",
+    "file": "929-unique-email-addresses.cpp"
+  },
+  {
+    "id": "931",
+    "title": "Minimum Falling Path Sum",
+    "slug": "minimum-falling-path-sum",
+    "file": "931-minimum-falling-path-sum.cpp"
+  },
+  {
+    "id": "933",
+    "title": "Number of Recent Calls",
+    "slug": "number-of-recent-calls",
+    "file": "933-number-of-recent-calls.cpp"
+  },
+  {
+    "id": "961",
+    "title": "N-Repeated element in size 2N Array",
+    "slug": "n-repeated-element-in-size-2n-array",
+    "file": "961-n-repeated-element-in-size-2n-array.cpp"
+  },
+  {
+    "id": "976",
+    "title": "Largest Perimeter Triangle",
+    "slug": "largest-perimeter-triangle",
+    "file": "976-largest-perimeter-triangle.cpp"
+  },
+  {
+    "id": "977",
+    "title": "Squares of a Sorted Array",
+    "slug": "squares-of-a-sorted-array",
+    "file": "977-squares-of-a-sorted-array.cpp"
+  },
+  {
+    "id": "978",
+    "title": "Longest Turbulent Subarray",
+    "slug": "longest-turbulent-subarray",
+    "file": "978-longest-turbulent-subarray.cpp"
+  },
+  {
+    "id": "979",
+    "title": "Distribute Coins in Binary Tree",
+    "slug": "distribute-coins-in-binary-tree",
+    "file": "979-distribute-coins-in-binary-tree.cpp"
+  },
+  {
+    "id": "980",
+    "title": "Unique Paths III",
+    "slug": "unique-paths-iii",
+    "file": "980-unique-paths-iii.cpp"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "slug": "time-based-key-value-store",
+    "file": "981-time-based-key-value-store.cpp"
+  },
+  {
+    "id": "982",
+    "title": "Triples with Bitwise AND Equal To Zero",
+    "slug": "triples-with-bitwise-and-equal-to-zero",
+    "file": "982-triples-with-bitwise-and-equal-to-zero.cpp"
+  },
+  {
+    "id": "983",
+    "title": "Minimum Cost For Tickets",
+    "slug": "minimum-cost-for-tickets",
+    "file": "983-minimum-cost-for-tickets.cpp"
+  },
+  {
+    "id": "984",
+    "title": "String Without AAA or BBB",
+    "slug": "string-without-aaa-or-bbb",
+    "file": "984-string-without-aaa-or-bbb.cpp"
+  },
+  {
+    "id": "985",
+    "title": "Sum of Even Numbers After Queries",
+    "slug": "sum-of-even-numbers-after-queries",
+    "file": "985-sum-of-even-numbers-after-queries.cpp"
+  },
+  {
+    "id": "986",
+    "title": "Interval List Intersections",
+    "slug": "interval-list-intersections",
+    "file": "986-interval-list-intersections.cpp"
+  },
+  {
+    "id": "987",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "slug": "vertical-order-traversal-of-a-binary-tree",
+    "file": "987-vertical-order-traversal-of-a-binary-tree.cpp"
+  },
+  {
+    "id": "988",
+    "title": "Smallest String Starting From Leaf",
+    "slug": "smallest-string-starting-from-leaf",
+    "file": "988-smallest-string-starting-from-leaf.cpp"
+  },
+  {
+    "id": "989",
+    "title": "Add to Array-Form of Integer",
+    "slug": "add-to-array-form-of-integer",
+    "file": "989-add-to-array-form-of-integer.cpp"
+  },
+  {
+    "id": "990",
+    "title": "Satisfiability of Equality Equations",
+    "slug": "satisfiability-of-equality-equations",
+    "file": "990-satisfiability-of-equality-equations.cpp"
+  },
+  {
+    "id": "991",
+    "title": "Broken Calculator",
+    "slug": "broken-calculator",
+    "file": "991-broken-calculator.cpp"
+  },
+  {
+    "id": "993",
+    "title": "Cousins in Binary Tree",
+    "slug": "cousins-in-binary-tree",
+    "file": "993-cousins-in-binary-tree.cpp"
+  },
+  {
+    "id": "1024",
+    "title": "Video Stitching",
+    "slug": "video-stitching",
+    "file": "1024-video-stitching.cpp"
+  },
+  {
+    "id": "1028",
+    "title": "Recover a Tree From Preorder Traversal",
+    "slug": "recover-a-tree-from-preorder-traversal",
+    "file": "1028-recover-a-tree-from-preorder-traversal.cpp"
+  },
+  {
+    "id": "1029",
+    "title": "Two City Scheduling",
+    "slug": "two-city-scheduling",
+    "file": "1029-two-city-scheduling.cpp"
+  },
+  {
+    "id": "1030",
+    "title": "Matrix Cells in Distance Order",
+    "slug": "matrix-cells-in-distance-order",
+    "file": "1030-matrix-cells-in-distance-order.cpp"
+  },
+  {
+    "id": "1071",
+    "title": "Greatest Common Divisor of Strings",
+    "slug": "greatest-common-divisor-of-strings",
+    "file": "1071-greatest-common-divisor-of-strings.cpp"
+  },
+  {
+    "id": "1170",
+    "title": "Compare Strings by Frequency of the Smallest Character",
+    "slug": "compare-strings-by-frequency-of-the-smallest-character",
+    "file": "1170-compare-strings-by-frequency-of-the-smallest-character.cpp"
+  },
+  {
+    "id": "1207",
+    "title": "Unique Number of Occurrences",
+    "slug": "unique-number-of-occurrences",
+    "file": "1207-unique-number-of-occurrences.cpp"
+  },
+  {
+    "id": "1333",
+    "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+    "slug": "filter-restaurants-by-vegan-friendly-price-and-distance",
+    "file": "1333-filter-restaurants-by-vegan-friendly-price-and-distance.cpp"
+  },
+  {
+    "id": "1353",
+    "title": "Maximum Number of Events That Can Be Attended",
+    "slug": "maximum-number-of-events-that-can-be-attended",
+    "file": "1353-maximum-number-of-events-that-can-be-attended.cpp"
+  },
+  {
+    "id": "1375",
+    "title": "Bulb Switcher III",
+    "slug": "bulb-switcher-iii",
+    "file": "1375-bulb-switcher-iii.cpp"
+  },
+  {
+    "id": "1376",
+    "title": "Time Needed to Inform All Employees",
+    "slug": "time-needed-to-inform-all-employees",
+    "file": "1376-time-needed-to-inform-all-employees.cpp"
+  },
+  {
+    "id": "1460",
+    "title": "Make Two Arrays Equal by Reversing Sub-arrays",
+    "slug": "make-two-arrays-equal-by-reversing-sub-arrays",
+    "file": "1460-make-two-arrays-equal-by-reversing-sub-arrays.cpp"
+  },
+  {
+    "id": "1464",
+    "title": "Maximum Product of Two Elements in an Array",
+    "slug": "maximum-product-of-two-elements-in-an-array",
+    "file": "1464-maximum-product-of-two-elements-in-an-array.cpp"
+  },
+  {
+    "id": "1470",
+    "title": "Shuffle the Array",
+    "slug": "shuffle-the-array",
+    "file": "1470-shuffle-the-array.cpp"
+  },
+  {
+    "id": "1513",
+    "title": "Number of Substrings With Only 1s",
+    "slug": "number-of-substrings-with-only-1s",
+    "file": "1513-number-of-substrings-with-only-1s.cpp"
+  },
+  {
+    "id": "1523",
+    "title": "Count Odd Numbers in an Interval Range",
+    "slug": "count-odd-numbers-in-an-interval-range",
+    "file": "1523-count-odd-numbers-in-an-interval-range.cpp"
+  },
+  {
+    "id": "1524",
+    "title": "Number of Sub-arrays With Odd Sum",
+    "slug": "number-of-sub-arrays-with-odd-sum",
+    "file": "1524-number-of-sub-arrays-with-odd-sum.cpp"
+  },
+  {
+    "id": "1525",
+    "title": "Number of Good Ways to Split a String",
+    "slug": "number-of-good-ways-to-split-a-string",
+    "file": "1525-number-of-good-ways-to-split-a-string.cpp"
+  },
+  {
+    "id": "1528",
+    "title": "Shuffle String",
+    "slug": "submissions",
+    "file": "1528-submissions.cpp"
+  },
+  {
+    "id": "1529",
+    "title": "Bulb Switcher IV",
+    "slug": "bulb-switcher-iv",
+    "file": "1529-bulb-switcher-iv.cpp"
+  },
+  {
+    "id": "1535",
+    "title": "Find the Winner of an Array Game",
+    "slug": "find-the-winner-of-an-array-game",
+    "file": "1535-find-the-winner-of-an-array-game.cpp"
+  },
+  {
+    "id": "1541",
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "slug": "minimum-insertions-to-balance-a-parentheses-string",
+    "file": "1541-minimum-insertions-to-balance-a-parentheses-string.cpp"
+  },
+  {
+    "id": "1550",
+    "title": "Three Consecutive Odds",
+    "slug": "three-consecutive-odds",
+    "file": "1550-three-consecutive-odds.cpp"
+  },
+  {
+    "id": "1551",
+    "title": "Minimum Operations to Make Array Equal",
+    "slug": "minimum-operations-to-make-array-equal",
+    "file": "1551-minimum-operations-to-make-array-equal.cpp"
+  },
+  {
+    "id": "1556",
+    "title": "Thousand Separator",
+    "slug": "thousand-separator",
+    "file": "1556-thousand-separator.cpp"
+  },
+  {
+    "id": "1573",
+    "title": "Number of Ways to Split a String",
+    "slug": "number-of-ways-to-split-a-string",
+    "file": "1573-number-of-ways-to-split-a-string.cpp"
+  },
+  {
+    "id": "1605",
+    "title": "Find Valid Matrix Given Row and Column Sums",
+    "slug": "find-valid-matrix-given-row-and-column-sums",
+    "file": "1605-find-valid-matrix-given-row-and-column-sums.cpp"
+  },
+  {
+    "id": "1624",
+    "title": "Largest Substring Between Two Equal Characters",
+    "slug": "largest-substring-between-two-equal-characters",
+    "file": "1624-largest-substring-between-two-equal-characters.cpp"
+  },
+  {
+    "id": "1625",
+    "title": "Lexicographically Smallest String After Applying Operations",
+    "slug": "lexicographically-smallest-string-after-applying-operations",
+    "file": "1625-lexicographically-smallest-string-after-applying-operations.cpp"
+  },
+  {
+    "id": "1694",
+    "title": "Reformat Phone Number",
+    "slug": "reformat-phone-number",
+    "file": "1694-reformat-phone-number.cpp"
+  },
+  {
+    "id": "1695",
+    "title": "Maximum Erasure Value",
+    "slug": "maximum-erasure-value",
+    "file": "1695-maximum-erasure-value.cpp"
+  },
+  {
+    "id": "1700",
+    "title": "Number of Students Unable to Eat Lunch",
+    "slug": "number-of-students-unable-to-eat-lunch",
+    "file": "1700-number-of-students-unable-to-eat-lunch.cpp"
+  },
+  {
+    "id": "1710",
+    "title": "Maximum Units on a Truck",
+    "slug": "maximum-units-on-a-truck",
+    "file": "1710-maximum-units-on-a-truck.cpp"
+  },
+  {
+    "id": "1711",
+    "title": "Count Good Meals",
+    "slug": "count-good-meals",
+    "file": "1711-count-good-meals.cpp"
+  },
+  {
+    "id": "1712",
+    "title": "Ways to Split Array Into Three Subarrays",
+    "slug": "ways-to-split-array-into-three-subarrays",
+    "file": "1712-ways-to-split-array-into-three-subarrays.cpp"
+  },
+  {
+    "id": "1716",
+    "title": "Calculate Money in Leetcode Bank",
+    "slug": "calculate-money-in-leetcode-bank",
+    "file": "1716-calculate-money-in-leetcode-bank.cpp"
+  },
+  {
+    "id": "1717",
+    "title": "Maximum Score From Removing Substrings",
+    "slug": "maximum-score-from-removing-substrings",
+    "file": "1717-maximum-score-from-removing-substrings.cpp"
+  },
+  {
+    "id": "1718",
+    "title": "Construct the Lexicographically Largest Valid Sequence",
+    "slug": "construct-the-lexicographically-largest-valid-sequence",
+    "file": "1718-construct-the-lexicographically-largest-valid-sequence.cpp"
+  },
+  {
+    "id": "1725",
+    "title": "Number Of Rectangles That Can Form The Largest Square",
+    "slug": "number-of-rectangles-that-can-form-the-largest-square",
+    "file": "1725-number-of-rectangles-that-can-form-the-largest-square.cpp"
+  },
+  {
+    "id": "1726",
+    "title": "Tuple with Same Product",
+    "slug": "tuple-with-same-product",
+    "file": "1726-tuple-with-same-product.cpp"
+  },
+  {
+    "id": "1727",
+    "title": "Largest Submatrix With Rearrangements",
+    "slug": "largest-submatrix-with-rearrangements",
+    "file": "1727-largest-submatrix-with-rearrangements.cpp"
+  },
+  {
+    "id": "1732",
+    "title": "Find the Highest Altitude",
+    "slug": "find-the-highest-altitude",
+    "file": "1732-find-the-highest-altitude.cpp"
+  },
+  {
+    "id": "1733",
+    "title": "Minimum Number of People to Teach",
+    "slug": "minimum-number-of-people-to-teach",
+    "file": "1733-minimum-number-of-people-to-teach.cpp"
+  },
+  {
+    "id": "1734",
+    "title": "Decode XORed Permutation",
+    "slug": "decode-xored-permutation",
+    "file": "1734-decode-xored-permutation.cpp"
+  },
+  {
+    "id": "1736",
+    "title": "Latest Time by Replacing Hidden Digits",
+    "slug": "latest-time-by-replacing-hidden-digits",
+    "file": "1736-latest-time-by-replacing-hidden-digits.cpp"
+  },
+  {
+    "id": "1738",
+    "title": "Find Kth Largest XOR Coordinate Value",
+    "slug": "find-kth-largest-xor-coordinate-value",
+    "file": "1738-find-kth-largest-xor-coordinate-value.cpp"
+  },
+  {
+    "id": "1739",
+    "title": "Building Boxes",
+    "slug": "building-boxes",
+    "file": "1739-building-boxes.cpp"
+  },
+  {
+    "id": "1742",
+    "title": "Maximum Number of Balls in a Box",
+    "slug": "maximum-number-of-balls-in-a-box",
+    "file": "1742-maximum-number-of-balls-in-a-box.cpp"
+  },
+  {
+    "id": "1743",
+    "title": "Restore the Array From Adjacent Pairs",
+    "slug": "restore-the-array-from-adjacent-pairs",
+    "file": "1743-restore-the-array-from-adjacent-pairs.cpp"
+  },
+  {
+    "id": "1748",
+    "title": "Sum of Unique Elements",
+    "slug": "sum-of-unique-elements",
+    "file": "1748-sum-of-unique-elements.cpp"
+  },
+  {
+    "id": "1749",
+    "title": "Maximum Absolute Sum of Any Subarray",
+    "slug": "maximum-absolute-sum-of-any-subarray",
+    "file": "1749-maximum-absolute-sum-of-any-subarray.cpp"
+  },
+  {
+    "id": "1750",
+    "title": "Minimum Length of String After Deleting Similar Ends",
+    "slug": "minimum-length-of-string-after-deleting-similar-ends",
+    "file": "1750-minimum-length-of-string-after-deleting-similar-ends.cpp"
+  },
+  {
+    "id": "1751",
+    "title": "Maximum Number of Events That Can Be Attended II",
+    "slug": "maximum-number-of-events-that-can-be-attended-ii",
+    "file": "1751-maximum-number-of-events-that-can-be-attended-ii.cpp"
+  },
+  {
+    "id": "1752",
+    "title": "Check if Array Is Sorted and Rotated",
+    "slug": "check-if-array-is-sorted-and-rotated",
+    "file": "1752-check-if-array-is-sorted-and-rotated.cpp"
+  },
+  {
+    "id": "1753",
+    "title": "Maximum Score From Removing Stones",
+    "slug": "maximum-score-from-removing-stones",
+    "file": "1753-maximum-score-from-removing-stones.cpp"
+  },
+  {
+    "id": "1754",
+    "title": "Largest Merge Of Two Strings",
+    "slug": "largest-merge-of-two-strings",
+    "file": "1754-largest-merge-of-two-strings.cpp"
+  },
+  {
+    "id": "1755",
+    "title": "Closest Subsequence Sum",
+    "slug": "closest-subsequence-sum",
+    "file": "1755-closest-subsequence-sum.cpp"
+  },
+  {
+    "id": "1758",
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "slug": "minimum-changes-to-make-alternating-binary-string",
+    "file": "1758-minimum-changes-to-make-alternating-binary-string.cpp"
+  },
+  {
+    "id": "1759",
+    "title": "Count Number of Homogenous Substrings",
+    "slug": "count-number-of-homogenous-substrings",
+    "file": "1759-count-number-of-homogenous-substrings.cpp"
+  },
+  {
+    "id": "1760",
+    "title": "Minimum Limit of Balls in a Bag",
+    "slug": "minimum-limit-of-balls-in-a-bag",
+    "file": "1760-minimum-limit-of-balls-in-a-bag.cpp"
+  },
+  {
+    "id": "1761",
+    "title": "Minimum Degree of a Connected Trio in a Graph",
+    "slug": "minimum-degree-of-a-connected-trio-in-a-graph",
+    "file": "1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp"
+  },
+  {
+    "id": "1763",
+    "title": "Longest Nice Substring",
+    "slug": "longest-nice-substring",
+    "file": "1763-longest-nice-substring.cpp"
+  },
+  {
+    "id": "1764",
+    "title": "Form Array by Concatenating Subarrays of Another Array",
+    "slug": "form-array-by-concatenating-subarrays-of-another-array",
+    "file": "1764-form-array-by-concatenating-subarrays-of-another-array.cpp"
+  },
+  {
+    "id": "1765",
+    "title": "Map of Highest Peak",
+    "slug": "map-of-highest-peak",
+    "file": "1765-map-of-highest-peak.cpp"
+  },
+  {
+    "id": "1766",
+    "title": "Tree of Coprimes",
+    "slug": "tree-of-coprimes",
+    "file": "1766-tree-of-coprimes.cpp"
+  },
+  {
+    "id": "1768",
+    "title": "Merge Strings Alternately",
+    "slug": "merge-strings-alternately",
+    "file": "1768-merge-strings-alternately.cpp"
+  },
+  {
+    "id": "1769",
+    "title": "Minimum Number of Operations to Move All Balls to Each Box",
+    "slug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+    "file": "1769-minimum-number-of-operations-to-move-all-balls-to-each-box.cpp"
+  },
+  {
+    "id": "1770",
+    "title": "Maximum Score from Performing Multiplication Operations",
+    "slug": "maximum-score-from-performing-multiplication-operations",
+    "file": "1770-maximum-score-from-performing-multiplication-operations.cpp"
+  },
+  {
+    "id": "1771",
+    "title": "Maximize Palindrome Length From Subsequences",
+    "slug": "maximize-palindrome-length-from-subsequences",
+    "file": "1771-maximize-palindrome-length-from-subsequences.cpp"
+  },
+  {
+    "id": "1773",
+    "title": "Count Items Matching a Rule",
+    "slug": "count-items-matching-a-rule",
+    "file": "1773-count-items-matching-a-rule.cpp"
+  },
+  {
+    "id": "1774",
+    "title": "Closest Dessert Cost",
+    "slug": "closest-dessert-cost",
+    "file": "1774-closest-dessert-cost.cpp"
+  },
+  {
+    "id": "1775",
+    "title": "Equal Sum Arrays With Minimum Number of Operations",
+    "slug": "equal-sum-arrays-with-minimum-number-of-operations",
+    "file": "1775-equal-sum-arrays-with-minimum-number-of-operations.cpp"
+  },
+  {
+    "id": "1779",
+    "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+    "slug": "find-nearest-point-that-has-the-same-x-or-y-coordinate",
+    "file": "1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.cpp"
+  },
+  {
+    "id": "1780",
+    "title": "Check if Number is a Sum of Powers of Three",
+    "slug": "check-if-number-is-a-sum-of-powers-of-three",
+    "file": "1780-check-if-number-is-a-sum-of-powers-of-three.cpp"
+  },
+  {
+    "id": "1781",
+    "title": "Sum of Beauty of All Substrings",
+    "slug": "sum-of-beauty-of-all-substrings",
+    "file": "1781-sum-of-beauty-of-all-substrings.cpp"
+  },
+  {
+    "id": "1782",
+    "title": "Count Pairs Of Nodes",
+    "slug": "count-pairs-of-nodes",
+    "file": "1782-count-pairs-of-nodes.cpp"
+  },
+  {
+    "id": "1784",
+    "title": "Check if Binary String Has at Most One Segment of Ones",
+    "slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+    "file": "1784-check-if-binary-string-has-at-most-one-segment-of-ones.cpp"
+  },
+  {
+    "id": "1785",
+    "title": "Minimum Elements to Add to Form a Given Sum",
+    "slug": "minimum-elements-to-add-to-form-a-given-sum",
+    "file": "1785-minimum-elements-to-add-to-form-a-given-sum.cpp"
+  },
+  {
+    "id": "1786",
+    "title": "Number of Restricted Paths From First to Last Node",
+    "slug": "number-of-restricted-paths-from-first-to-last-node",
+    "file": "1786-number-of-restricted-paths-from-first-to-last-node.cpp"
+  },
+  {
+    "id": "1787",
+    "title": "Make the XOR of All Segments Equal to Zero",
+    "slug": "make-the-xor-of-all-segments-equal-to-zero",
+    "file": "1787-make-the-xor-of-all-segments-equal-to-zero.cpp"
+  },
+  {
+    "id": "1790",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "slug": "check-if-one-string-swap-can-make-strings-equal",
+    "file": "1790-check-if-one-string-swap-can-make-strings-equal.cpp"
+  },
+  {
+    "id": "1791",
+    "title": "Find Center of Star Graph",
+    "slug": "find-center-of-star-graph",
+    "file": "1791-find-center-of-star-graph.cpp"
+  },
+  {
+    "id": "1792",
+    "title": "Maximum Average Pass Ratio",
+    "slug": "maximum-average-pass-ratio",
+    "file": "1792-maximum-average-pass-ratio.cpp"
+  },
+  {
+    "id": "1793",
+    "title": "Maximum Score of a Good Subarray",
+    "slug": "maximum-score-of-a-good-subarray",
+    "file": "1793-maximum-score-of-a-good-subarray.cpp"
+  },
+  {
+    "id": "1796",
+    "title": "Second Largest Digit in a String",
+    "slug": "second-largest-digit-in-a-string",
+    "file": "1796-second-largest-digit-in-a-string.cpp"
+  },
+  {
+    "id": "1797",
+    "title": "Design Authentication Manager",
+    "slug": "design-authentication-manager",
+    "file": "1797-design-authentication-manager.cpp"
+  },
+  {
+    "id": "1798",
+    "title": "Maximum Number of Consecutive Values You Can Make",
+    "slug": "submissions",
+    "file": "1798-submissions.cpp"
+  },
+  {
+    "id": "1799",
+    "title": "Maximize Score After N Operations",
+    "slug": "submissions",
+    "file": "1799-submissions.cpp"
+  },
+  {
+    "id": "1800",
+    "title": "Maximum Ascending Subarray Sum",
+    "slug": "maximum-ascending-subarray-sum",
+    "file": "1800-maximum-ascending-subarray-sum.cpp"
+  },
+  {
+    "id": "1801",
+    "title": "Number of Orders in the Backlog",
+    "slug": "number-of-orders-in-the-backlog",
+    "file": "1801-number-of-orders-in-the-backlog.cpp"
+  },
+  {
+    "id": "1802",
+    "title": "Maximum Value at a Given Index in a Bounded Array",
+    "slug": "maximum-value-at-a-given-index-in-a-bounded-array",
+    "file": "1802-maximum-value-at-a-given-index-in-a-bounded-array.cpp"
+  },
+  {
+    "id": "1803",
+    "title": "Count Pairs With XOR in a Range",
+    "slug": "count-pairs-with-xor-in-a-range",
+    "file": "1803-count-pairs-with-xor-in-a-range.cpp"
+  },
+  {
+    "id": "1805",
+    "title": "Number of Different Integers in a String",
+    "slug": "number-of-different-integers-in-a-string",
+    "file": "1805-number-of-different-integers-in-a-string.cpp"
+  },
+  {
+    "id": "1806",
+    "title": "Minimum Number of Operations to Reinitialize a Permutation",
+    "slug": "minimum-number-of-operations-to-reinitialize-a-permutation",
+    "file": "1806-minimum-number-of-operations-to-reinitialize-a-permutation.cpp"
+  },
+  {
+    "id": "1807",
+    "title": "Evaluate the Bracket Pairs of a String",
+    "slug": "evaluate-the-bracket-pairs-of-a-string",
+    "file": "1807-evaluate-the-bracket-pairs-of-a-string.cpp"
+  },
+  {
+    "id": "1808",
+    "title": "Maximize Number of Nice Divisors",
+    "slug": "maximize-number-of-nice-divisors",
+    "file": "1808-maximize-number-of-nice-divisors.cpp"
+  },
+  {
+    "id": "1812",
+    "title": "Determine Color of a Chessboard Square",
+    "slug": "determine-color-of-a-chessboard-square",
+    "file": "1812-determine-color-of-a-chessboard-square.cpp"
+  },
+  {
+    "id": "1813",
+    "title": "Sentence Similarity III",
+    "slug": "sentence-similarity-iii",
+    "file": "1813-sentence-similarity-iii.cpp"
+  },
+  {
+    "id": "1814",
+    "title": "Count Nice Pairs in an Array",
+    "slug": "count-nice-pairs-in-an-array",
+    "file": "1814-count-nice-pairs-in-an-array.cpp"
+  },
+  {
+    "id": "1815",
+    "title": "Maximum Number of Groups Getting Fresh Donuts",
+    "slug": "maximum-number-of-groups-getting-fresh-donuts",
+    "file": "1815-maximum-number-of-groups-getting-fresh-donuts.cpp"
+  },
+  {
+    "id": "1816",
+    "title": "Truncate Sentence",
+    "slug": "truncate-sentence",
+    "file": "1816-truncate-sentence.cpp"
+  },
+  {
+    "id": "1817",
+    "title": "Finding the Users Active Minutes",
+    "slug": "finding-the-users-active-minutes",
+    "file": "1817-finding-the-users-active-minutes.cpp"
+  },
+  {
+    "id": "1818",
+    "title": "Minimum Absolute Sum Difference",
+    "slug": "minimum-absolute-sum-difference",
+    "file": "1818-minimum-absolute-sum-difference.cpp"
+  },
+  {
+    "id": "1819",
+    "title": "Number of Different Subsequences GCDs",
+    "slug": "number-of-different-subsequences-gcds",
+    "file": "1819-number-of-different-subsequences-gcds.cpp"
+  },
+  {
+    "id": "1822",
+    "title": "Sign of the Product of an Array",
+    "slug": "sign-of-the-product-of-an-array",
+    "file": "1822-sign-of-the-product-of-an-array.cpp"
+  },
+  {
+    "id": "1823",
+    "title": "Find the Winner of the Circular Game",
+    "slug": "find-the-winner-of-the-circular-game",
+    "file": "1823-find-the-winner-of-the-circular-game.cpp"
+  },
+  {
+    "id": "1824",
+    "title": "Minimum Sideway Jumps",
+    "slug": "minimum-sideway-jumps",
+    "file": "1824-minimum-sideway-jumps.cpp"
+  },
+  {
+    "id": "1825",
+    "title": "Finding MK Average",
+    "slug": "finding-mk-average",
+    "file": "1825-finding-mk-average.cpp"
+  },
+  {
+    "id": "1827",
+    "title": "Minimum Operations to Make the Array Increasing",
+    "slug": "minimum-operations-to-make-the-array-increasing",
+    "file": "1827-minimum-operations-to-make-the-array-increasing.cpp"
+  },
+  {
+    "id": "1828",
+    "title": "Queries on Number of Points Inside a Circle",
+    "slug": "queries-on-number-of-points-inside-a-circle",
+    "file": "1828-queries-on-number-of-points-inside-a-circle.cpp"
+  },
+  {
+    "id": "1829",
+    "title": "Maximum XOR for Each Query",
+    "slug": "maximum-xor-for-each-query",
+    "file": "1829-maximum-xor-for-each-query.cpp"
+  },
+  {
+    "id": "1832",
+    "title": "Check if the Sentence Is Pangram",
+    "slug": "check-if-the-sentence-is-pangram",
+    "file": "1832-check-if-the-sentence-is-pangram.cpp"
+  },
+  {
+    "id": "1833",
+    "title": "Maximum Ice Cream Bars",
+    "slug": "maximum-ice-cream-bars",
+    "file": "1833-maximum-ice-cream-bars.cpp"
+  },
+  {
+    "id": "1834",
+    "title": "Single-Threaded CPU",
+    "slug": "single-threaded-cpu",
+    "file": "1834-single-threaded-cpu.cpp"
+  },
+  {
+    "id": "1835",
+    "title": "Find XOR Sum of All Pairs Bitwise AND",
+    "slug": "find-xor-sum-of-all-pairs-bitwise-and",
+    "file": "1835-find-xor-sum-of-all-pairs-bitwise-and.cpp"
+  },
+  {
+    "id": "1837",
+    "title": "Sum of Digits in Base K",
+    "slug": "sum-of-digits-in-base-k",
+    "file": "1837-sum-of-digits-in-base-k.cpp"
+  },
+  {
+    "id": "1838",
+    "title": "Frequency of the Most Frequent Element",
+    "slug": "frequency-of-the-most-frequent-element",
+    "file": "1838-frequency-of-the-most-frequent-element.cpp"
+  },
+  {
+    "id": "1839",
+    "title": "Longest Substring Of All Vowels in Order",
+    "slug": "longest-substring-of-all-vowels-in-order",
+    "file": "1839-longest-substring-of-all-vowels-in-order.cpp"
+  },
+  {
+    "id": "1840",
+    "title": "Maximum Building Height",
+    "slug": "maximum-building-height",
+    "file": "1840-maximum-building-height.cpp"
+  },
+  {
+    "id": "1844",
+    "title": "Replace All Digits with Characters",
+    "slug": "replace-all-digits-with-characters",
+    "file": "1844-replace-all-digits-with-characters.cpp"
+  },
+  {
+    "id": "1845",
+    "title": "Seat Reservation Manager",
+    "slug": "seat-reservation-manager",
+    "file": "1845-seat-reservation-manager.cpp"
+  },
+  {
+    "id": "1846",
+    "title": "Maximum Element After Decreasing and Rearranging",
+    "slug": "maximum-element-after-decreasing-and-rearranging",
+    "file": "1846-maximum-element-after-decreasing-and-rearranging.cpp"
+  },
+  {
+    "id": "1847",
+    "title": "Closest Room",
+    "slug": "closest-room",
+    "file": "1847-closest-room.cpp"
+  },
+  {
+    "id": "1848",
+    "title": "Minimum Distance to the Target Element",
+    "slug": "minimum-distance-to-the-target-element",
+    "file": "1848-minimum-distance-to-the-target-element.cpp"
+  },
+  {
+    "id": "1849",
+    "title": "Splitting a String Into Descending Consecutive Values",
+    "slug": "splitting-a-string-into-descending-consecutive-values",
+    "file": "1849-splitting-a-string-into-descending-consecutive-values.cpp"
+  },
+  {
+    "id": "1850",
+    "title": "Minimum Adjacent Swaps to Reach the Kth Smallest Number",
+    "slug": "minimum-adjacent-swaps-to-reach-the-kth-smallest-number",
+    "file": "1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number.cpp"
+  },
+  {
+    "id": "1851",
+    "title": "Minimum Interval to Include Each Query",
+    "slug": "minimum-interval-to-include-each-query",
+    "file": "1851-minimum-interval-to-include-each-query.cpp"
+  },
+  {
+    "id": "1854",
+    "title": "Maximum Population Year",
+    "slug": "maximum-population-year",
+    "file": "1854-maximum-population-year.cpp"
+  },
+  {
+    "id": "1855",
+    "title": "Maximum Distance Between a Pair of Values",
+    "slug": "maximum-distance-between-a-pair-of-values",
+    "file": "1855-maximum-distance-between-a-pair-of-values.cpp"
+  },
+  {
+    "id": "1856",
+    "title": "Maximum Subarray Min-Product",
+    "slug": "maximum-subarray-min-product",
+    "file": "1856-maximum-subarray-min-product.cpp"
+  },
+  {
+    "id": "1857",
+    "title": "Largest Color Value in a Directed Graph",
+    "slug": "largest-color-value-in-a-directed-graph",
+    "file": "1857-largest-color-value-in-a-directed-graph.cpp"
+  },
+  {
+    "id": "1859",
+    "title": "Sorting the Sentence",
+    "slug": "sorting-the-sentence",
+    "file": "1859-sorting-the-sentence.cpp"
+  },
+  {
+    "id": "1860",
+    "title": "Incremental Memory Leak",
+    "slug": "incremental-memory-leak",
+    "file": "1860-incremental-memory-leak.cpp"
+  },
+  {
+    "id": "1861",
+    "title": "Rotating the Box",
+    "slug": "rotating-the-box",
+    "file": "1861-rotating-the-box.cpp"
+  },
+  {
+    "id": "1862",
+    "title": "Sum of Floored Pairs",
+    "slug": "sum-of-floored-pairs",
+    "file": "1862-sum-of-floored-pairs.cpp"
+  },
+  {
+    "id": "1869",
+    "title": "Longer Contiguous Segments of Ones than Zeros",
+    "slug": "longer-contiguous-segments-of-ones-than-zeros",
+    "file": "1869-longer-contiguous-segments-of-ones-than-zeros.cpp"
+  },
+  {
+    "id": "1870",
+    "title": "Minimum Speed to Arrive on Time",
+    "slug": "minimum-speed-to-arrive-on-time",
+    "file": "1870-minimum-speed-to-arrive-on-time.cpp"
+  }
+]
