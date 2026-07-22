@@ -1,44 +1,30 @@
 class Solution {
-public:
-    bool dfs(int node, int destination,
-             vector<vector<int>>& graph,
-             vector<bool>& visited) {
-
-        if (node == destination)
-            return true;
-
-        visited[node] = true;
-
-        for (int neighbor : graph[node]) {
-
-            if (!visited[neighbor]) {
-
-                if (dfs(neighbor, destination, graph, visited))
-                    return true;
-
-            }
-        }
-
-        return false;
-    }
-
-    bool validPath(int n,
-                   vector<vector<int>>& edges,
-                   int source,
-                   int destination) {
-
-        vector<vector<int>> graph(n);
-
-        for (auto &edge : edges) {
-
-            graph[edge[0]].push_back(edge[1]);
-
-            graph[edge[1]].push_back(edge[0]);
-
-        }
-
-        vector<bool> visited(n, false);
-
-        return dfs(source, destination, graph, visited);
-    }
-};
+private:
+ static const int MAX_V = 200005; 
+ int parent[MAX_V]; 
+ int find_set(int v) { 
+ if (v == parent[v]) 
+ return v; 
+ return parent[v] = find_set(parent[v]); 
+ } 
+ inline void union_sets(int a, int b) { 
+ a = find_set(a); 
+ b = find_set(b); 
+ if (a != b) 
+ parent[b] = a; 
+ } 
+public: 
+ bool validPath(int n, vector<vector<int>>& edges, int source, int destination) { 
+ if (source == destination) 
+ return true; 
+ for (int i = 0; i < n; ++i) 
+ parent[i] = i; 
+ for (const auto& edge : edges) { 
+ union_sets(edge[0], edge[1]); 
+  
+ if (find_set(source) == find_set(destination)) 
+ return true; 
+ } 
+ return find_set(source) == find_set(destination); 
+ } 
+}; 
